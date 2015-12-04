@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 17:31:56 CST 2015
+com.springsource.org.apache.xml.resolver-1.2.0.jar.jar>=
+com.springsource.org.apache.xml.resolver-1.2.0.jar.pom>=

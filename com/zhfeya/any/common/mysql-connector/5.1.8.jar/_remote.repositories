@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 04 17:34:00 CST 2015
+mysql-connector-5.1.8.jar.jar>=
+mysql-connector-5.1.8.jar.pom>=
