@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zhfeya.framework</groupId>
+  <artifactId>spring-test</artifactId>
+  <versioning>
+    <release>4.1.6.RELEASE</release>
+    <versions>
+      <version>4.1.6.RELEASE</version>
+    </versions>
+    <lastUpdated>20151207030544</lastUpdated>
+  </versioning>
+</metadata>

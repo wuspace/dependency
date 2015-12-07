@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.zhfeya.framework</groupId>
+  <artifactId>druid</artifactId>
+  <versioning>
+    <release>1.0.9</release>
+    <versions>
+      <version>1.0.9</version>
+    </versions>
+    <lastUpdated>20151207030334</lastUpdated>
+  </versioning>
+</metadata>
